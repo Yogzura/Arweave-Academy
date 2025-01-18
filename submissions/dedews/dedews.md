@@ -1,3 +1,6 @@
+git add .
+git commit -m "fill any"
+git push origin main
 ## Arweave Academy Personal File
 
 ### Personal information
